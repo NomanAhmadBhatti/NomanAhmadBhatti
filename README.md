@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanahmadbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="nomanahmadbhatti" /> </p>
 
-- 🌱 I’m currently learning **Database management systems**
+- 🌱 I’m currently learning **Firebase New Features**
 
 - 💬 Ask me about **java, kotlin**
 
